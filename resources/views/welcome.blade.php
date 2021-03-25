@@ -108,6 +108,6 @@
     </footer>
 
 
-    <script src={{asset("")}}></script>
+    <script src={{asset('js/app.js')}}></script>
 </body>
 </html>
